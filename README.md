@@ -1,1 +1,1 @@
-# vr222im_Summer24_IntroToCS
+Hej! Viktor heter jag, 32 år och bor i Kalmar. Har jobbat tidigare med IT-support och som automationsingenjör. Upptäckte där att jag vill testa på annan slags programmering så tänkte därför testa WP.
