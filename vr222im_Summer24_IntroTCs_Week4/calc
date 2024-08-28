@@ -1,0 +1,32 @@
+//let kalle = 5
+//console.log(kalle)
+
+function add (a,b) {
+    sum = a + b
+    console.log("Adding: "+ a +" + " +b)
+    return sum
+}
+
+function subtract (a,b) {
+    sum = a - b
+    console.log("Subtracting: "+ a +" - " +b)
+    return sum
+}
+
+function multiply (a,b) {
+    sum = a * b
+    console.log("Multiplying: "+ a +" * " +b)
+    return sum
+}
+
+function divide (a,b) {
+    sum = a / b
+    console.log("Dividing: "+ a +" / " +b)
+    return sum
+}
+
+
+console.log(add(2,5))
+console.log(subtract(2,5))
+console.log(multiply(2,5))
+console.log(divide(2,5))
